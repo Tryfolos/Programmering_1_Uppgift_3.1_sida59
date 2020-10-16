@@ -20,8 +20,7 @@ print("")
 
 print("Svaret du ger bör endast anges i siffor. Du skall alltså lämna ute bokstäver och specialtecken.")
 print("Dina svar skall även vara angivna i form av heltal.")
-print("")
-input("Skriv något här och tryck på enter för att fortsätta.")
+
 
 print("")
 print("")
